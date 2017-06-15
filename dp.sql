@@ -12,7 +12,7 @@ select
 	drug.PackSize/100 as [Pack Size],
 	cast(round(stockCard.SOH,2) as varchar) as [SOH],
 	drug.SpecifiedPackPharmacode as [Pharmacode],
-	drug.AverageWholeSalePrice/100 as [w/s price],
+	cast((drug.AverageWholeSalePrice/100.00) as decimal(8,2)) as [w/s price],
 	convert(varchar,cast(stockCard.LastSaleDate as datetime), 103) as [last sale] 
 from dbo.StockCards as stockCard
 inner join dbo.StockPoints as stockPoint on stockPoint.id = stockCard.StockPointId
