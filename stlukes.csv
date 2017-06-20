@@ -1,17 +1,18 @@
-Store Name,Brand,Generic Name,Strength,Pack Size,Pharmacode,W/S Price,SOH,SOH Value,last sale
+Store Name,Brand,Generic Name,Strength,Pack Size,Pharmacode,W/S Price,SOH,SOH Value,Last Used
 Unichem St. Lukes,FOLINIC ACID,Calcium folinate,15mg,10,701300,114.69,4,458.76,14/11/2016
+Life St. Lukes,PACIFEN,Baclofen,10mg,50,403903,51.33,3.12,160.15,23/12/2016
 Life St. Lukes,EMEND TRI PACK,Aprepitant,,3,2244098,110.00,1,110.00,04/11/2016
 Unichem St. Lukes,ASAMAX,Mesalazine,500mg EC,100,2288443,54.45,2,108.90,17/12/2014
 Unichem St. Lukes,SABRIL,Vigabatrin,500mg,120,2144697,157.48,0.6,94.49,20/05/2016
 Unichem St. Lukes,SABRIL,Vigabatrin,500mg,100,2144697,143.16,0.6,85.90,20/05/2016
 Unichem St. Lukes,SABRIL,Vigabatrin,500mg,100,2144697,131.23,0.6,78.74,20/05/2016
 Unichem St. Lukes,PEXSIG,Perhexiline maleate,100mg,100,352713,69.19,0.98,67.81,14/02/2016
-Life St. Lukes,STRATTERA,Atomoxetine, 25mg,28,2181584,117.73,0.57,67.27,12/12/2015
 Life St. Lukes,SUSTAGEN HF,Special Food,Choc,900,789763,16.39,4,65.56,13/11/2015
 Unichem St. Lukes,DAPSONE,Dapsone,100mg,100,712914,121.00,0.52,62.92,25/11/2016
 Unichem St. Lukes,toPAMAX,Topiramate, 25mg,60,470988,28.64,2,57.28,08/12/2016
 Life St. Lukes,BEZALIP,Bezafibrate,200mg,100,474223,28.55,2,57.10,15/07/2016
 Life St. Lukes,ADRENALINE DB,Adrenaline HCL,1:1000 1ml,50,603341,54.45,1,54.45,20/11/2016
+Unichem St. Lukes,ANTEN,DOXepin HCL,25mg,500,348554,23.04,2.2,50.69,23/12/2016
 Unichem St. Lukes,SYMBICORT,Budesonide+eformoterol,400/12,60,2228009,48.49,1,48.49,23/11/2016
 Life St. Lukes,EMLA,Lidocaine+prilocaine,5%5x5g+dressngs,5,657697,49.50,0.8,39.60,26/11/2016
 Life St. Lukes,ESTROFEM,Estradiol,1mg,28,258601,12.21,3,36.63,31/10/2016
@@ -27,12 +28,14 @@ Life St. Lukes,coUMADIN,Warfarin sodium,1mg,50,796824,3.81,6.5,24.77,20/08/2016
 Unichem St. Lukes,VESICARE,Solifenacin succinate,10mg,30,2208393,41.25,0.6,24.75,10/10/2016
 Unichem St. Lukes,RIFADIN,Rifampicin,300mg,100,251194,127.87,0.18,23.02,03/09/2016
 Unichem St. Lukes,FORTISIP,Special Food,Vanilla,200,2220822,1.23,18,22.14,13/05/2016
-Life St. Lukes,OXIS,Eformoterol fumarate,  6mcg/dose,60,493740,18.59,1,18.59,17/09/2016
 Unichem St. Lukes,OXIS,Eformoterol fumarate,  6mcg/dose,60,493740,18.59,1,18.59,30/04/2016
+Life St. Lukes,OXIS,Eformoterol fumarate,  6mcg/dose,60,493740,18.59,1,18.59,17/09/2016
 Unichem St. Lukes,MADOPAR,Levodopa+benserazide, 62.5,100,201413,8.80,2.1,18.48,23/01/2016
 Unichem St. Lukes,FLUANXOL,Flupenthixol decanoate, 40mg/2ml  2ml,5,437301,22.99,0.8,18.39,01/10/2016
+Unichem St. Lukes,ANTEN,DOXepin HCL,25mg,100,348554,7.55,2.2,16.61,23/12/2016
 Life St. Lukes,ARIMIDEX,Anastrozole,1mg,28,2119498,246.40,0.07,16.43,21/12/2016
 Life St. Lukes,LEVLEN ED,Levonorgestrel+ethinyloest.,,112,439118,13.86,1,13.86,02/12/2016
+Life St. Lukes,PACIFEN,Baclofen,10mg,100,403903,4.23,3.12,13.20,23/12/2016
 Unichem St. Lukes,NUELIN,Theophylline,250mg SR,100,255149,23.67,0.55,13.02,13/10/2016
 Unichem St. Lukes,APO-CLOMIPRAMINE,clomipRAMIne HCL,25mg,100,2289830,9.55,1.36,12.99,02/12/2016
 Life St. Lukes,BD SYRINGE,Insulin syringe,1mlUFII31Gx8mm,100,2224224,14.30,0.9,12.87,25/07/2015
@@ -51,6 +54,7 @@ Unichem St. Lukes,HIRUDOID,Heparinoid,0.3%,14,272353,7.61,1,7.61,30/08/2016
 Life St. Lukes,SYRUP,Sucrose,BP 66.7% PF,2000,2140381,23.93,0.31,7.35,03/10/2016
 Life St. Lukes,LEVLEN ED,Levonorgestrel+ethinylest.,,84,439118,7.31,1,7.31,02/12/2016
 Unichem St. Lukes,OVESTIN,Oestriol,2mg,30,767476,7.70,0.9,6.93,08/12/2016
+Life St. Lukes,OX PAM,Oxazepam,15mg,100,256285,9.38,0.71,6.66,23/12/2016
 Life St. Lukes,DILZEM,Diltiazem HCL, 60mg,100,523836,9.35,0.7,6.54,14/10/2016
 Life St. Lukes,ISOPTIN,Verapamil HCL, 40mg,100,253499,7.71,0.8,6.17,09/05/2016
 Unichem St. Lukes,HYDROCORTISONE,Hydrocortisone,20mg,100,205648,22.35,0.26,5.81,20/07/2016
