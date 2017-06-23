@@ -1,53 +1,38 @@
-23 Jun 2017 11:16am    Page 1
-Unichem New Lynn Pharmacy
-
-Stock take and valuation report (excluding GST)
-
-Listing: 0-Z; Stock Point: Dispensary; Stocked; Not used in last 180 days; Hospital meds: Include;
-Total Value: $870.56
-
-PCode, Product,Locn.,Pack, Manf,SO,Stock, Adj.,Price,Value
-797138 ,ACTRAPID 100iu/ml 3ml Penfill,FR,5, NOVO,,3,   ____,46.94,28.16
-524492 ,ANTABUSE 200mg Tablets,disp,100, CSLN,,31,   ____,48.73,15.11
-787493 ,APO-NADOLOL 40mg Tablets,disp,100, APOT,,120,   ____,17.65,21.18
-2104989 ,ARCOXIA 90mg Tablets,disp,30, MERC,,26,   ____,45.60,39.52
-2224208 ,BD SYRINGE 0.5mlUFII31Gx8mm Needles,,100, EBOS,,1P,   ____,14.30,14.30
-536970 ,BETADINE 10% Solution,,100, SANS,,1P,   ____,9.07,9.07
-2091011 ,CALCITRIOL AFT 0.5mcg Capsules,,100, AFTP,,90,   ____,20.23,18.21
-2426129 ,CHARCOAL ACTIVATED RED SEAL 300mg capsules,,45, ,,1P,   ____,4.68,4.68
-2373297 ,CHLORHEXIDINE AQ HEALTHE 4% Red Wash,,500, JAYC,,1P,   ____,4.38,4.38
-2318679 ,CHLORHEXIDINE HEALTHE 1% with 70% Eth Hand Rub,,500, JAYC,,1P,   ____,4.72,4.72
-701610 ,CONDYLINE  Solution,,3.5, CSLN,,3P,   ____,36.96,110.88
-210897 ,DIPROSONE 0.05% Ointment,disp,50, SCHG,,1P,   ____,9.87,9.87
-204951 ,FLORINEF 0.1mg Tablets,disp,100, HCLO,,1P,   ____,15.75,15.75
-242993 ,GUTRON 2.5mg Tablets,,100, DOUG,,101,   ____,58.30,58.88
-277002 ,HYDROCORTISONE 1% Cream,disp,500, APIC,,1P,   ____,17.88,17.88
-264962 ,KEMADRIN 5mg Tablets,disp,100, GLSK,,20,   ____,8.14,1.63
-656453 ,LITHICARB FC 400mg Tablets,,100, MYLN,,77,   ____,14.11,10.86
-2106493 ,M-ESLON 60mg SR Capsules,CD,10, MULT,,24,   ____,5.94,14.26
-2331128 ,MELOREX 7.5mg Tablets,,30, DOUG,,6,   ____,12.14,2.43
-765503 ,METHATABS 5mg Tablets,CD,10, PSM,,3P,   ____,2.03,6.09
-697648 ,MICREME 2% Vag Cream,vag,40, MYLN,,2P,   ____,4.34,8.68
-719803 ,MICROLUT 30mcg Tablets,oc,84, SCHE,,2P,   ____,18.15,36.30
-2383926 ,MORPHINE LA ARROW 100mg LA bpk. Tablets,,10, ACTA,,6P,   ____,6.71,40.26
-2429152 ,MULTICHEM BOTTLES with caps 185ml,,25, ,,1P,   ____,0.00,0.00
-767336 ,NAPROSYN 1000mg SR Tablets,disp,90, HCLO,,100,   ____,23.10,25.67
-203084 ,ONE ALPHA 0.25mcg Capsules,,100, CSLN,,40,   ____,28.95,11.58
-256285 ,OX PAM 15mg Tablets,c5,100, DOUG,,117,   ____,9.38,10.97
-256250 ,OX PAM 10mg Tablets,c5,100, DOUG,,102,   ____,6.79,6.93
-2452715 ,OXYCODONE BNM 20mg CR Tablets,,20, BNMG,,66,   ____,12.65,41.74
-2194767 ,OXYCONTIN 5mg CR Tablets,cd,20, PHAC,,4P,   ____,8.26,33.04
-785768 ,PENMIX 50 50/50 3ml Cartr.,fr,5, NOVO,,7,   ____,46.93,65.70
-260541 ,PRED MILD 0.12% Eye drops,drops,5, ALLP,,1P,   ____,4.95,4.95
-674281 ,PULMICORT 400mcg Turbuhaler,inh,200, ASZE,,1P,   ____,35.20,35.20
-2177560 ,RISPERDAL 0.5mg Quicklet Tablets,,28, JANC,,15,   ____,23.56,12.62
-2227371 ,RUBIFEN 5mg Tablets,cd,30, AFTP,,1,   ____,3.52,0.12
-478490 ,SINGULAIR 10mg Tablets,disp,28, MERC,,1P,   ____,20.33,20.33
-254894 ,SOFRAMYCIN 0.50% Drops,drops,8, SANS,,3P,   ____,9.51,28.53
-2144468 ,SPAN K 600mg Tablets,disp,200, ANSP,,208,   ____,8.16,8.49
-2390663 ,TIMOLOL ARROW 0.25% Eye drops,,5, ACTA,,3P,   ____,1.60,4.80
-2383160 ,TOLTERODINE ARROW 2mg Tablets,,56, ACTA,,20,   ____,16.02,5.72
-2222264 ,TRAMAL 50mg SR Tablets,,20, CSLN,,70,   ____,8.10,28.35
-2111977 ,TRENTAL 400mg Tablets,,50, SANS,,10,   ____,46.49,9.30
-2095467 ,VERPAMIL 120mg SR Tablets,disp,250, MYLN,,229,   ____,16.72,15.32
-2179911 ,VISTIL FORTE 3% Eye drops,,15, AFTP,,2P,   ____,4.05,8.10
+Store Name,Brand,Generic Name,Strength,Pack Size,Pharmacode,W/S Price,SOH,SOH Value,Last Used
+Unichem New Lynn,CONDYLINE,Podophyllotoxin,,3,701610,36.96,3,110.88,09/12/2016
+Unichem New Lynn,HYDROCORTISONE,Hydrocortisone,1%,2000,277002,91.81,1,91.81,22/12/2016
+Unichem New Lynn,PENMIX 50,Insulin isophane+neut.,50/50 3ml,5,785768,46.93,1.4,65.70,11/05/2016
+Unichem New Lynn,GUTRON,MidODRINE HCL,2.5mg,100,242993,58.30,1.01,58.88,10/12/2016
+Unichem New Lynn,APIDRA SOLOSTAR,Insulin glulisine,100iu/ml 3ml,5,2316870,50.68,0.8,40.54,24/12/2016
+Unichem New Lynn,MICROLUT,Levonorgestrel,30mcg,84,719803,18.15,2,36.30,25/11/2016
+Unichem New Lynn,PULMICORT,BUDESONide,400mcg,200,674281,35.20,1,35.20,25/06/2016
+Unichem New Lynn,oxyCONTIN,Oxycodone HCl, 5mg CR,20,2194767,8.26,4,33.04,23/11/2016
+Unichem New Lynn,SOFRAMYCIN,Framycetin sulfate,0.50%,8,254894,9.51,3,28.53,22/10/2016
+Unichem New Lynn,ACTRAPID,Insulin neutral,100iu/ml 3ml,5,797138,46.94,0.6,28.16,23/01/2016
+Unichem New Lynn,ACTRAPID HM,Insulin neutral,100iu/ml 3ml,5,797138,44.70,0.6,26.82,23/01/2016
+Unichem New Lynn,NAPROSYN,Naproxen,1000mg SR,90,767336,23.10,1.11,25.67,14/11/2016
+Unichem New Lynn,APO-NADOLOL,Nadolol,40mg,100,787493,17.65,1.2,21.18,03/12/2016
+Unichem New Lynn,CALCITRIOL AFT,calciTRIol,0.5mcg,100,2091011,20.23,0.9,18.21,20/12/2016
+Unichem New Lynn,HYDROCORTISONE,Hydrocortisone,1%,500,277002,17.88,1,17.88,22/12/2016
+Unichem New Lynn,FLORINEF,Fludrocortisone acetate,0.1mg,100,204951,15.75,1,15.75,19/08/2015
+Unichem New Lynn,VERPAMIL,Verapamil HCL,120mg SR,250,2095467,16.72,0.92,15.32,16/10/2016
+Unichem New Lynn,ANTABUSE,Disulfiram,200mg,100,524492,48.73,0.31,15.11,18/03/2016
+Unichem New Lynn,M-ESLON,Morphine sulfate, 60mg SR,10,2106493,5.94,2.4,14.26,28/09/2016
+Unichem New Lynn,RISPERDAL,RISPERIDone,0.5mg Quicklet,28,2177560,23.56,0.54,12.62,11/12/2016
+Unichem New Lynn,ONE ALPHA,Alfacalcidol,0.25mcg,100,203084,28.95,0.4,11.58,16/10/2016
+Unichem New Lynn,OX PAM,Oxazepam,15mg,100,256285,9.38,1.17,10.97,07/09/2016
+Unichem New Lynn,LITHICARB FC,Lithium carbonate,400mg,100,656453,14.11,0.77,10.86,04/08/2016
+Unichem New Lynn,ETIDRONATE ARROW,Etidronate disodium,200mg,100,2341999,14.85,0.72,10.69,21/12/2016
+Unichem New Lynn,DIPROSONE,Betamethasone diprop,0.05%,50,210897,9.87,1,9.87,09/09/2016
+Unichem New Lynn,TRENTAL,Pentoxifylline,400mg,50,2111977,46.49,0.2,9.30,21/12/2016
+Unichem New Lynn,MICREME,Miconazole nitrate,2%,40,697648,4.34,2,8.68,01/09/2016
+Unichem New Lynn,VISTIL FORTE,Polyvinyl alcohol,3%,15,2179911,4.05,2,8.10,14/01/2016
+Unichem New Lynn,OX PAM,Oxazepam,10mg,100,256250,6.79,1.02,6.93,30/09/2016
+Unichem New Lynn,APO-NADOLOL,Nadolol,40mg,30,787493,5.49,1.2,6.59,03/12/2016
+Unichem New Lynn,METHATABS,MethADONe HCL,5mg,10,765503,2.03,3,6.09,18/09/2016
+Unichem New Lynn,NITRADOS,Nitrazepam,5mg,100,269689,5.74,0.94,5.40,12/11/2016
+Unichem New Lynn,PRED MILD,Prednisolone acetate,0.12%,5,260541,4.95,1,4.95,21/05/2015
+Unichem New Lynn,CHLORHEXIDINE HEALTHE,Chlorhexidine gluconate,1% with 70% Eth,500,2318679,4.72,1,4.72,30/07/2016
+Unichem New Lynn,DIPROSONE,Betamethasone diprop,0.05%,15,210897,3.26,1,3.26,09/09/2016
+Unichem New Lynn,KEMADRIN,proCYCLIDine HCL,5mg,100,264962,8.14,0.2,1.63,25/05/2016
+Unichem New Lynn,RUBIFEN,MethylPHENIDATE HCL, 5mg,30,2227371,3.52,0.03,.12,04/07/2016
