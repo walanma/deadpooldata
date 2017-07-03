@@ -6,7 +6,7 @@ Stock take and valuation report (excluding GST),,,,,,,,,,,
 Listing: 0-Z; Stock Point: Dispensary; Stocked; Not used in last 180 days; Hospital meds: Include;,,,,,,,,,,,
 Total Value: $1788.40,,,,,,,,,,,
 ,,,,,,,,,,,
-PCode, Product,Locn.,Pack, Manf,SO,Stock, Adj.,Price,Value,exp,discount
+PCode, Product,Locn.,Pack, Manf,SO,Stock, Adj.,Price,Value,,
 ,,,,,,,,,,,
 225665,ACUPAN 30mg Tablets,,90, VALT,,30,   ____,25.74,8.58,Jul-20,
 2058707,ADALAT 10 10mg LA Tablets,,60, BAYN,,102,   ____,11.69,19.87,Nov-19,
