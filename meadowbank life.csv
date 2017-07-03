@@ -6,7 +6,7 @@ Stock take and valuation report (excluding GST),,,,,,,,,,,
 Listing: 0-Z; Stock Point: Dispensary; Stocked; Not used in last 180 days; Hospital meds: Include;,,,,,,,,,,,
 Total Value: $1788.40,,,,,,,,,,,
 ,,,,,,,,,,,
-PCode, Product,Locn.,Pack, Manf,SO,Stock, Adj.,Price,Value,,
+PCode, Product,Locn.,Pack, Manf,SO,Stock, Adj.,Price,Value,exp,discount
 ,,,,,,,,,,,
 225665,ACUPAN 30mg Tablets,,90, VALT,,30,   ____,25.74,8.58,Jul-20,
 2058707,ADALAT 10 10mg LA Tablets,,60, BAYN,,102,   ____,11.69,19.87,Nov-19,
@@ -43,6 +43,6 @@ PCode, Product,Locn.,Pack, Manf,SO,Stock, Adj.,Price,Value,,
 437212,TOPAMAX 15mg Sprinkle Capsules,,60, JANC,,45,   ____,22.92,17.19,Oct-17,50%
 2149532,TRAMAL 150mg SR Tablets,,20, CSLN,,38,   ____,2.31,4.39,Oct-20,
 2149524,TRAMAL 200mg SR Tablets,,20, CSLN,,70,   ____,3.02,10.57,Oct-17,50%
-2479443,VEXAZONE 30mg Tablets,,90, MYLN,,1P,   ____,5.57,5.57,Jul-18,
+2479443,VEXAZONE 30mg Tablets,,90, MYLN,,1P,   ____,5.57,5.57,,Jul-18
 682810,ZINNAT 250mg Tablets,,50, GLSK,,1P,   ____,32.34,32.34,May-19,
 2439840,ZYPINE 10mg ODT Tablets,,28, MYLN,,54,   ____,2.25,4.34,Nov-17,50%
